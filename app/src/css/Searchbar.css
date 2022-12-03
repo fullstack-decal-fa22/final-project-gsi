@@ -1,0 +1,17 @@
+:root {
+    --color-gray: #E2E3E5;
+}
+
+.search {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.search-icon {
+    align-self: center;
+    padding-left: 1em;
+    padding-right: 0.5em;
+}

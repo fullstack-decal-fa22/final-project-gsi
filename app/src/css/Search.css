@@ -1,0 +1,9 @@
+.center-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);    
+}

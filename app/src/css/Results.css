@@ -1,0 +1,42 @@
+.card-header {
+  text-align: left;
+  font-family: "HeaderFont";
+  font-size: 30px;
+}
+
+.results-header {
+  text-align: left;
+  margin: 2% 5%;
+  font-family: "HeaderFont";
+  font-size: 60px;
+}
+
+.results-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.class-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-family: "Roboto";
+  color: black;
+  font-size: 20px;
+  margin-left: 5em;
+  text-align: left;
+}
+
+.card-sub-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.card-container {
+  margin: 1em;
+  flex: 30%;
+}
